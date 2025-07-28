@@ -2,7 +2,8 @@
 
 A Looker-powered analytics dashboard designed to help an energy company monitor and improve customer acquisition, adoption, and revenue growth through key performance metrics.
 
-![Dashboard Screenshot](dashboard/metrics_screenshot.png)
+🔗 **Live Dashboard:** [View on Looker Studio](https://lookerstudio.google.com/s/utIGYZ6hJrk)
+
 
 ---
 
