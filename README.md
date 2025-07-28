@@ -1,8 +1,9 @@
 # ⚡ Energy Company Growth Dashboard (Looker)
 
 A Looker-powered analytics dashboard designed to help an energy company monitor and improve customer acquisition, adoption, and revenue growth through key performance metrics.
+While the live dashboard is based on private CSV data, here is a visual overview of the final dashboard:
 
-🔗 **Live Dashboard:** [View on Looker Studio](https://lookerstudio.google.com/s/utIGYZ6hJrk)
+![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
 
 
 ---
