@@ -1,4 +1,4 @@
-# ⚡ Energy Company Growth Dashboard (Looker)
+#  Energy Company Growth Dashboard (Looker)
 
 A Looker-powered analytics dashboard designed to help an energy company monitor and improve customer acquisition, adoption, and revenue growth through key performance metrics.
 While the live dashboard is based on private CSV data, here is a visual overview of the final dashboard:
@@ -7,7 +7,7 @@ While the live dashboard is based on private CSV data, here is a visual overview
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This dashboard tracks vital business metrics to help marketing and operations teams make data-informed decisions. It is designed to:
 
@@ -17,26 +17,26 @@ This dashboard tracks vital business metrics to help marketing and operations te
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
-- 📈 **Customer Adoption Rate (CAR)**  
+-  **Customer Adoption Rate (CAR)**  
   Measures how quickly new customers are adopting the service
 
-- 👥 **New Installations & Total Active Customers**  
+-  **New Installations & Total Active Customers**  
   Tracks customer base growth and retention
 
-- 💸 **Customer Acquisition Cost (CAC)**  
+-  **Customer Acquisition Cost (CAC)**  
   Monitors efficiency in acquiring customers across Facebook and Google Ads
 
-- 🎯 **Lead Conversion Rate**  
+-  **Lead Conversion Rate**  
   Evaluates lead quality and marketing effectiveness
 
-- 💰 **Revenue Metrics**  
+-  **Revenue Metrics**  
   Revenue per customer and total monthly revenue
 
 ---
 
-## 📌 Key Metrics Summary
+## Key Metrics Summary
 
 | Metric                    | Value     |
 |---------------------------|-----------|
@@ -47,7 +47,7 @@ This dashboard tracks vital business metrics to help marketing and operations te
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Looker / LookML** – for building the dashboard and data models  
 - **Google BigQuery / SQL** – as the backend data warehouse  
@@ -56,6 +56,5 @@ This dashboard tracks vital business metrics to help marketing and operations te
 
 ---
 
-## 📁 Project Structure
 
 
